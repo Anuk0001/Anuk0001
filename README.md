@@ -1,27 +1,3 @@
-# 💫 About Me
-
-## Hey 👋 I'm Anuk
-
-🎓 Software Engineering Undergraduate  
-💻 Java Backend Developer | Full-Stack Builder  
-
-I love turning ideas into real-world working applications.
-
-I specialize in Java-based backend development and enjoy building complete full-stack systems from scratch.
-
----
-
-### 💻 Currently Building:
-- E-commerce web applications
-- Authentication systems with email verification
-- Database-driven systems using Hibernate & MySQL
-
-### 🧠 Currently Learning:
-- System Design
-- Clean Architecture
-- Docker & Cloud Deployment
-
-⚡ Fun Fact: I prefer solving real-world problems over watching tutorials.
 
 ---
 
